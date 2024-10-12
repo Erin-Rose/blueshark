@@ -8,6 +8,10 @@ Three STL's are provided, a STEP, and the Fusion source:
 
 - SharkFullNormal.STL (an exported stl of Shark.STEP)
 - SharkHalfNormal.STL (half of SharkFullnormal.STL, for easy printing)
-- SharkHalfChocolate.STL (a half-shark optimised for chocolate printing! :3) 
+- SharkHalfChocolate.STL (a half-shark optimised for chocolate printing! :3)
 
 ## license: do whatever you want so long as you're cool? also attribution pls. 
+![](images/shark.webp)
+
+
+
